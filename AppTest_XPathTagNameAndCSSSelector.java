@@ -1,4 +1,4 @@
-public class XPathTagNameAndCSSSelector {
+public class AppTest_XPathTagNameAndCSSSelector {
     WebDriver driver;
 
     @BeforeTest
