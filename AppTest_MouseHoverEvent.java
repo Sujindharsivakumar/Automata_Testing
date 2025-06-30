@@ -1,4 +1,4 @@
-public class MouseHoverEvent {
+public class AppTest_MouseHoverEvent {
     WebDriver driver;
     WebDriverWait wait;
 
