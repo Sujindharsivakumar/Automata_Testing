@@ -25,7 +25,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import io.github.bonigarcia.wdm.WebDriverManager;
-public public class NavigateToWikipedia {
+public public class AppTest_Navigate {
     WebDriver driver;
 
     @BeforeTest
