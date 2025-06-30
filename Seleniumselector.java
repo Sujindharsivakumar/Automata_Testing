@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class DodoPlatform {
+public class Seleniumselector {
     WebDriver driver;
 
     @BeforeTest
