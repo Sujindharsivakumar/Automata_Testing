@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public public class ScrollDemoQA {
+public public class AppTest_ScrollDemo_EC {
     WebDriver driver;
 
     @BeforeTest
