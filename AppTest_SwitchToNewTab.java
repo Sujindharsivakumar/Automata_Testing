@@ -1,4 +1,4 @@
-public class SwitchToNewTab {
+public class AppTest_SwitchToNewTab {
     WebDriver driver;
 
     @BeforeTest
