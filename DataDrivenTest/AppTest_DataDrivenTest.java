@@ -1,4 +1,4 @@
-package DataDrivenTest;
+package com.example;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 
 import java.io.*;
 
-public class DataDrivenTest {
+public class AppTest_DataDrivenTest {
     WebDriver driver;
     WebDriverWait wait;
 
